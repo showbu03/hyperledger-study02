@@ -1,0 +1,8 @@
+node_modules
+build
+#.env
+.idea
+configuration/*
+chaincodes/hyperledger
+tools/network/0.local/docker/*
+tools/network/1.dev/docker/*

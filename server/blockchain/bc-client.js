@@ -35,8 +35,8 @@ class BcClient {
       /* eslint-disable global-require */
       /*
       * 각 ORG 별 Admin Certification
-      * crypto-config/peerOrganizations/org1.kt.com/users/Admin@org1.kt.com/msp/keystore
-      * crypto-config/peerOrganizations/org1.kt.com/users/Admin@org1.kt.com/msp/signcerts
+      * crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore
+      * crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts
       */
       this._clientConfig = require(`../blockchain/${chConfigDirPath}/settings`);
 

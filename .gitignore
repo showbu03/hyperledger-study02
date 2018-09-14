@@ -6,3 +6,4 @@ configuration/*
 chaincodes/hyperledger
 tools/network/0.local/docker/*
 tools/network/1.dev/docker/*
+package-lock.json

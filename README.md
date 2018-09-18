@@ -18,7 +18,7 @@ $)cd ~/github/hyperledger-study02
 $)npm install
 ```
 
-````# 개발환경 모드 실행
+* HLF Basic 네트워크 구동
 
 Simple Balance API
 

@@ -6,10 +6,16 @@
 * yo (npm install -g yo generator-express-no-stress) 
 
 ## HLF 기반 Simple Balance API 개발 환경 구성
+* 개발 소스 clone
 ```
 $)cd ~ #홈디렉토리로 이동
 $)mkdir github
 $)git clone https://github.com/simon0210/hyperledger-study02.git
+```
+* nodeJS 모듈 설치
+```
+$)cd ~/github/hyperledger-study02
+$)npm install
 ```
 
 ````# Simple Balance API

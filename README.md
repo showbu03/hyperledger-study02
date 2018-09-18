@@ -25,6 +25,12 @@ $)npm install
 $) docker rm -f $(docker ps -aq)
 ```
 
+네트워크구동
+```
+$)cd ~/github/hyperledger-study02/tools/network
+$)./0-network-start.sh
+```
+
 ## CouchDB
 ```
 http://localhost:5984/_utils/#/_all_dbs

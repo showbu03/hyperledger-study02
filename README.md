@@ -9,7 +9,7 @@
 ```
 $)cd ~ #홈디렉토리로 이동
 $)mkdir github
-$)git clone https://github.com/simon0210/hyperledger-study01.git
+$)git clone https://github.com/simon0210/hyperledger-study02.git
 ```
 
 ````# Simple Balance API

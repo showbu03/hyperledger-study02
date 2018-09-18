@@ -39,6 +39,18 @@ $)./1-create-channel.sh
 ```
 $)./2-setup-chaincode.sh balance 0.1
 ```
+주의할점은 체인코드 ID를 balance에서 다른것으로 바꾸면 안된다. 해당 쉘 스크립트는  
+
+```
+$)cd ~/github/hyperledger-study02/tools/chaincodes
+$)ls -al
+
+drwxr-xr-x 3 simon simon 4096  9월 15 10:07 .
+drwxr-xr-x 5 simon simon 4096  9월 15 10:07 ..
+drwxr-xr-x 2 simon simon 4096  9월 15 18:46 balance_cc
+```
+상기디렉토리의 balance_cc 를 바라본다. 다른 체인코드를 install & instantiate 하기 위해서는
+example_cc 디렉토리를 생성하고 id를 example 로 주면 된다(./2-setup-chaincode.sh example 0.1)
 
 ## CouchDB
 ```

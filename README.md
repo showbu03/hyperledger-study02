@@ -55,6 +55,13 @@ drwxr-xr-x 2 simon simon 4096  9월 15 18:46 balance_cc
 
 (ex: ./2-setup-chaincode.sh example 0.1)
 
+### API 서버 구동
+* npm run dev 명령으로 API 서버를 구동한다.
+```
+$)cd /home/simon/github/hyperledger-study02
+$)npm run dev
+```
+
 ## CouchDB
 ```
 http://localhost:5984/_utils

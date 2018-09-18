@@ -65,7 +65,5 @@ $)npm run dev
 ### Swagger 접속
 http://localhost:3500/api-explorer/
 
-## CouchDB
-```
+### CouchDB 메니지먼트 
 http://localhost:5984/_utils
-```

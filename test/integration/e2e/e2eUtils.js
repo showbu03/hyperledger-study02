@@ -1,10 +1,3 @@
-/**
- *
- * Copyright 2018 KT All Rights Reserved.
- *
- */
-
-
 const utils = require('fabric-client/lib/utils.js');
 
 const logger = utils.getLogger('E2E testing');

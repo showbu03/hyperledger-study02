@@ -1,9 +1,3 @@
-/**
- *
- * Copyright 2018 KT All Rights Reserved.
- *
- */
-
 import * as express from 'express';
 import controller from './controller';
 

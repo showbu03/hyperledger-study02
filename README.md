@@ -5,6 +5,13 @@
 * HLF 1.2 Image
 * yo (npm install -g yo generator-express-no-stress) 
 
+## HLF 기반 Simple Balance API 개발 환경 구성
+```
+$)cd ~ #홈디렉토리로 이동
+$)mkdir github
+$)git clone https://github.com/simon0210/hyperledger-study01.git
+```
+
 ````# Simple Balance API
 
 Simple Balance API

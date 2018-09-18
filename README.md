@@ -31,6 +31,11 @@ $)cd ~/github/hyperledger-study02/tools/network
 $)./0-network-start.sh
 ```
 
+* 채널 생성 및 조인
+```
+$)./1-create-channel.sh
+```
+
 ## CouchDB
 ```
 http://localhost:5984/_utils/#/_all_dbs

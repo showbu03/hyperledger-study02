@@ -18,7 +18,7 @@ $)cd ~/github/hyperledger-study02
 $)npm install
 ```
 
-````# Simple Balance API
+````# 개발환경 모드 실행
 
 Simple Balance API
 

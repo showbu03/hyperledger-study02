@@ -35,6 +35,10 @@ $)./0-network-start.sh
 ```
 $)./1-create-channel.sh
 ```
+* 체인코드 Install & Instantiate balance는 체인코드 ID 이며 0.1 은 버전명을 의미한다.
+```
+$)./2-setup-chaincode.sh balance 0.1
+```
 
 ## CouchDB
 ```

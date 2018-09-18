@@ -18,14 +18,14 @@ $)cd ~/github/hyperledger-study02
 $)npm install
 ```
 
-* HLF Basic 네트워크 구동
+### HLF Basic 네트워크 구동
 
-기존컨테이너 삭제
+* 기존컨테이너 삭제
 ```
 $) docker rm -f $(docker ps -aq)
 ```
 
-네트워크구동
+* 네트워크구동
 ```
 $)cd ~/github/hyperledger-study02/tools/network
 $)./0-network-start.sh

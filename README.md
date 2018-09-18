@@ -19,8 +19,9 @@ $)npm install
 ```
 
 * HLF Basic 네트워크 구동
+- 기존컨테이너 삭제
 ```
-$) docker rm -f $(docker ps -aq) /* 
+$) docker rm -f $(docker ps -aq)
 ```
 
 ## CouchDB

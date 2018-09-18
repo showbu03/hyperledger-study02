@@ -62,6 +62,9 @@ $)cd /home/simon/github/hyperledger-study02
 $)npm run dev
 ```
 
+### Swagger 접속
+http://localhost:3500/api-explorer/
+
 ## CouchDB
 ```
 http://localhost:5984/_utils

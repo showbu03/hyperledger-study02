@@ -38,5 +38,5 @@ $)./1-create-channel.sh
 
 ## CouchDB
 ```
-http://localhost:5984/_utils/#/_all_dbs
+http://localhost:5984/_utils
 ```

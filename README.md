@@ -72,5 +72,4 @@ http://localhost:5984/_utils
 ### Block listener
 ```
 $)cd ~/github/hyperledger-study02/tools/network/event./block-listener -events-address=peer0.org1.example.com:7053 -events-mspdir=../crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp -events-mspid=Org1MSP
-$)
 ```

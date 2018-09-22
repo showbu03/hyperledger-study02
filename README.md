@@ -103,3 +103,4 @@ https://sabzil.org/govendor/
 ```
 cp -rf ~/github/hyperledger-study02 $GOPATH/src/github.com/
 ```
+https://github.com/hyperledger/fabric/tree/master/core/chaincode/lib/cid

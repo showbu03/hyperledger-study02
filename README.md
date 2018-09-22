@@ -85,6 +85,9 @@ https://github.com/hyperledger/fabric/tree/release-1.2/examples/events/block-lis
 ```
 $)cd ~/github/hyperledger-study02/tools/network/event
 $)./block-listener -events-address=127.0.0.1:7053 -events-mspdir=../crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp -events-mspid=Org1MSP
+(window 인 경우)
+$)./block-listener.exe -events-address=127.0.0.1:7053 -events-mspdir=../crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp -events-mspid=Org1MSP
+
 ```
 ## Fabric Build
 ```

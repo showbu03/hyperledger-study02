@@ -98,3 +98,8 @@ $)make native
 
 ## GO Vendor
 https://sabzil.org/govendor/
+
+## Go Application
+```
+cp -rf ~/github/hyperledger-study02 $GOPATH/github.com/
+```

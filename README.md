@@ -101,5 +101,5 @@ https://sabzil.org/govendor/
 
 ## Go Application
 ```
-cp -rf ~/github/hyperledger-study02 $GOPATH/github.com/
+cp -rf ~/github/hyperledger-study02 $GOPATH/src/github.com/
 ```

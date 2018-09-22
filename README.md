@@ -71,6 +71,12 @@ http://localhost:5984/_utils
 ## Fabric Download
 ```
 $)go get -u github.com/hyperledger/fabric
+$)cd $GOPATH/src/github.com/hyperledger/fabric/examples/events/block-listener
+$)go build .
+```
+빌드한 바이너리 파일을 복사한다
+```
+$)cp -rf ./block-listener $HOME/github/hyperledger-study02/tools/network/event
 ```
 ## Event Client
 https://github.com/hyperledger/fabric/tree/release-1.2/examples/events/block-listener

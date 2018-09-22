@@ -69,6 +69,8 @@ http://localhost:3500/api-explorer/
 http://localhost:5984/_utils
 
 ## Event Client
+https://github.com/hyperledger/fabric/tree/release-1.2/examples/events/block-listener
+
 ### Block listener
 ```
 $)cd ~/github/hyperledger-study02/tools/network/event./block-listener -events-address=peer0.org1.example.com:7053 -events-mspdir=../crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp -events-mspid=Org1MSP
